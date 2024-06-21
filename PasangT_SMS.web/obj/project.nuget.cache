@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xtjc3FhllWy8AT03P9+4x7NlB65DTEujuLkHP9tOTRuEWPDbSh3KJzE7VXA0qq9leXR7Lr5q1b0JNnmh5GZF2w==",
+  "dgSpecHash": "DiU8Pdhmun+MEIajpEnBlbF81yEfc/roz89BbzbdCAlQ9zdS6uNECdHXoWDmo1O9TMt8qG2yJaQyLcUVagI7ig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\Desktop\\PasangT_SMS\\PasangT_SMS.web\\PasangT_SMS.web.csproj",
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\PasangT_SMS\\FinalProject\\PasangT_SMS.web\\PasangT_SMS.web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

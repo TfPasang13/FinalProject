@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Desktop\\PasangT_SMS\\PasangT_SMS.web\\PasangT_SMS.web.csproj": {}
+    "C:\\Users\\hp\\Desktop\\PasangT_SMS\\FinalProject\\PasangT_SMS.web\\PasangT_SMS.web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Desktop\\PasangT_SMS\\PasangT_SMS.web\\PasangT_SMS.web.csproj": {
+    "C:\\Users\\hp\\Desktop\\PasangT_SMS\\FinalProject\\PasangT_SMS.web\\PasangT_SMS.web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\PasangT_SMS\\PasangT_SMS.web\\PasangT_SMS.web.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\PasangT_SMS\\FinalProject\\PasangT_SMS.web\\PasangT_SMS.web.csproj",
         "projectName": "PasangT_SMS.web",
-        "projectPath": "C:\\Users\\hp\\Desktop\\PasangT_SMS\\PasangT_SMS.web\\PasangT_SMS.web.csproj",
+        "projectPath": "C:\\Users\\hp\\Desktop\\PasangT_SMS\\FinalProject\\PasangT_SMS.web\\PasangT_SMS.web.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\PasangT_SMS\\PasangT_SMS.web\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\PasangT_SMS\\FinalProject\\PasangT_SMS.web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

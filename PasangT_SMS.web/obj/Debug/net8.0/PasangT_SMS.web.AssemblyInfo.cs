@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PasangT_SMS.web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99ea2b708f6e44631423bc59ecdc75115ee50aae")]
 [assembly: System.Reflection.AssemblyProductAttribute("PasangT_SMS.web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PasangT_SMS.web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
